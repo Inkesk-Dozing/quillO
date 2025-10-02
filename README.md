@@ -89,7 +89,7 @@ Developed as a personal solution for digital organization and later expanded for
 
 ## 📄 License
 
-[MIT License](./LICENSE)
+[APACHE 2.0 License](./LICENSE)
 ---
 
 
